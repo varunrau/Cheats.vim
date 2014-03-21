@@ -4,6 +4,6 @@ endif
 
 function! OpenCheatSheet()
 
-    pyfile cheats.py
+    pyfile /Users/varunrau/.vim/bundle/Cheats.vim/plugin/cheats.py
 
 endfunction
